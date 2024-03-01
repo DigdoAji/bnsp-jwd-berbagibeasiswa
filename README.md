@@ -12,4 +12,4 @@ BerbagiBeasiswa is a project to create a simple website-based scholarship regist
 ## Status Project
 
 - Does it have an Front-End Web Deployment link? : `No`
-- Is it running in `local` mode? : `Yes`
+- Is it running in `localhost` mode? : `Yes`
